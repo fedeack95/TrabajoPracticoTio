@@ -1,4 +1,5 @@
 # TrabajoPracticoTio
+
 ##Introducción 
 
 
@@ -6,6 +7,8 @@ Python es un lenguaje de programación poderoso y fácil de aprender. Cuenta con e
 
 
 ##La sentencia
+
+
 Tal vez el tipo más conocido de sentencia sea el if. Por ejemplo:
 ~~~
 >>> x = int(input("Ingresa un entero, por favor: "))
@@ -25,6 +28,7 @@ Ingresa un entero, por favor: 42
 ~~~
 
 ## Iteraciones
+
 
 Se denominará iteración a aquel conjunto de instrucciones que se encuentran 
 
