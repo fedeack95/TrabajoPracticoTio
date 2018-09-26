@@ -131,3 +131,11 @@ i +=1
 print("La suma dá " + str(resultado))
 ~~~
 
+## Bibliografia
+
+http://docs.python.org.ar/tutorial/pdfs/TutorialPython3.pdf
+
+http://www.mclibre.org/consultar/python/ejercicios
+
+
+
