@@ -85,6 +85,26 @@ print("La suma dá " + str(resultado))
 
 ~~~
 
+otro ejemplo:
+~~~
+print("Comienzo")
+for i in [3, 4, 5]:
+    print(f"Hola. Ahora i vale {i} y su cuadrado {i ** 2}")
+print("Final")
+
+imprime:
+
+Comienzo
+Hola. Ahora i vale 3 y su cuadrado 9
+Hola. Ahora i vale 4 y su cuadrado 16
+Hola. Ahora i vale 5 y su cuadrado 25
+Final
+
+~~~
+
+
+
+
 Instrucción while:
 
 La instrucción while es utilizada para controlar un ciclo repetitivo de 
